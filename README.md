@@ -1,1 +1,1 @@
-# Computer_Vision
+# Computer Vision Stitching Assignment
